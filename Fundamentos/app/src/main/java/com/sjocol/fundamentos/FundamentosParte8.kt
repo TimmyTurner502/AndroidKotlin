@@ -63,7 +63,7 @@ fun listas(){
     println(vehiculos)
     println(vehiculos.size)
     vehiculos.remove("Honda")
-    vehiculos.remove(3)
-    vehiculos.removeAt(vehiculos.last())
+    //vehiculos.remove(3)
+    //vehiculos.removeAt(vehiculos.last())
     println(vehiculos)
 }
